@@ -1,0 +1,3 @@
+Host cortex
+ Hostname EDITME
+ IdentityFile ~/.ssh/hive-to-cortex
